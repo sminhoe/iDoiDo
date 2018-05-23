@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Give and Get</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="passerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+
+    <string name="empty_edittext_msg">Please fill in.</string>
+    <string name="required_msg">Required.</string>
+
+    <string name="add_task_success_msg">Add task successfully.</string>
+    <string name="add_task_fail_msg">Error. Please check your input.</string>
+
+
+</resources>
