@@ -43,7 +43,7 @@ UTeM Mobile Apps 17/18 Project
   <br>
   <li>Add tasks into the database.</li>
   <li>Finish tasks in the database.</li>
-  <li>Update tasks name from the bucket list. (ERROR)</li>
+  <li>Update tasks status when user finish their task.</li>
   <li>View completed tasks (History).</li>
   <li>Date & Time of tasks will automatic filled based on server date and time or from mobile if no internet access.</li>
   </ul>
