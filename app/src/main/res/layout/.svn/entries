@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com/sminhoe/iDoiDo/app/src/main/res/layout
+https://github.com/sminhoe/iDoiDo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+caf7875f-622a-d727-3712-ce57b7db7bff
+
+activity_logo.xml
+file
+
+
+
+add
+
+activity_main2.xml
+file
+
+
+
+add
+
+fragment_home.xml
+file
+
+
+
+add
+
+fragment_profile.xml
+file
+
+
+
+add
+
+fragment_share.xml
+file
+
+
+
+add
+
+view_item.xml
+file
+
+
+
+add
+

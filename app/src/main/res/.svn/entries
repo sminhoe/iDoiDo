@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://github.com/sminhoe/iDoiDo/app/src/main/res
+https://github.com/sminhoe/iDoiDo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+caf7875f-622a-d727-3712-ce57b7db7bff
+
+color
+dir
+
+
+
+add
+
+drawable
+dir
+
+
+
+add
+
+drawable-v24
+dir
+
+
+
+add
+
+layout
+dir
+
+
+
+add
+
+menu
+dir
+
+
+
+add
+
+mipmap-anydpi-v26
+dir
+
+
+
+add
+
+mipmap-hdpi
+dir
+
+
+
+add
+
+mipmap-mdpi
+dir
+
+
+
+add
+
+mipmap-xhdpi
+dir
+
+
+
+add
+
+mipmap-xxhdpi
+dir
+
+
+
+add
+
+mipmap-xxxhdpi
+dir
+
+
+
+add
+
+values
+dir
+
+
+
+add
+

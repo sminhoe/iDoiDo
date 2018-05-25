@@ -1,0 +1,287 @@
+10
+
+dir
+0
+https://github.com/sminhoe/iDoiDo/app/src/main/res/drawable
+https://github.com/sminhoe/iDoiDo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+caf7875f-622a-d727-3712-ce57b7db7bff
+
+gradientbackground.xml
+file
+
+
+
+add
+
+ic_access_time_black_24dp.xml
+file
+
+
+
+add
+
+ic_account_circle_black_24dp.xml
+file
+
+
+
+add
+
+ic_add_a_photo_black_24dp.xml
+file
+
+
+
+add
+
+ic_add_circle_black_24dp.xml
+file
+
+
+
+add
+
+ic_chevron_right_black_24dp.xml
+file
+
+
+
+add
+
+ic_date_range_black_24dp.xml
+file
+
+
+
+add
+
+ic_description_black_24dp.xml
+file
+
+
+
+add
+
+ic_details_black_24dp.xml
+file
+
+
+
+add
+
+ic_email_black_24dp.xml
+file
+
+
+
+add
+
+ic_history_black_24dp.xml
+file
+
+
+
+add
+
+ic_home_black_24dp.xml
+file
+
+
+
+add
+
+ic_launcher_background.xml
+file
+
+
+
+add
+
+ic_list_black_24dp.xml
+file
+
+
+
+add
+
+ic_location_on_black_24dp.xml
+file
+
+
+
+add
+
+ic_notifications_active_black_24dp.xml
+file
+
+
+
+add
+
+ic_person_black_24dp.xml
+file
+
+
+
+add
+
+ic_restaurant_black_24dp.xml
+file
+
+
+
+add
+
+idoido1.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+idoido2.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+idoido3.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+img_avatar2.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+logoidoido.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+logoidoidofirst.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+logout_button.xml
+file
+
+
+
+add
+
+rounded_button.xml
+file
+
+
+
+add
+
+signin_button.xml
+file
+
+
+
+add
+
+signout_button.xml
+file
+
+
+
+add
+
+signup2_button.xml
+file
+
+
+
+add
+
+submit_button.xml
+file
+
+
+
+add
+
+white_button.xml
+file
+
+
+
+add
+

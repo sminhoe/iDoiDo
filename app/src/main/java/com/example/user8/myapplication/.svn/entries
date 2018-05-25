@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://github.com/sminhoe/iDoiDo/app/src/main/java/com/example/user8/myapplication
+https://github.com/sminhoe/iDoiDo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+caf7875f-622a-d727-3712-ce57b7db7bff
+
+AddTask.java
+file
+
+
+
+add
+
+AddTaskAdapter.java
+file
+
+
+
+add
+
+HomeFragment.java
+file
+
+
+
+add
+
+LogoActivity.java
+file
+
+
+
+add
+
+Main2Activity.java
+file
+
+
+
+add
+
+ProfileAdapter.java
+file
+
+
+
+add
+
+ProfileFragment.java
+file
+
+
+
+add
+
+ShareFragment.java
+file
+
+
+
+add
+
+WebServiceCall.java
+file
+
+
+
+add
+
